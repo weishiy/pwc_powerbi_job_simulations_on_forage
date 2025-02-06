@@ -5,17 +5,17 @@ This repository contains my work for the **PwC Power BI Job Simulations** on **F
 
 ## Tasks
 
-### Task 1: Call Centre KPI Analysis
+### Task 1: Call Centre Trends
 - Analyzed key performance indicators (KPIs) for a call centre.
 - Created a Power BI dashboard to visualize performance metrics.
 - Key KPIs: customer satisfaction, call volume, response time, and agent efficiency.
 
-### Task 2: Customer Churn Analysis
+### Task 2: Customer Retention
 - Built a dashboard to analyze customer churn trends.
 - Defined key KPIs for churn analysis.
 - Provided insights and recommendations to improve retention.
 
-### Task 3: HR Diversity Analysis
+### Task 3: Diversity & Inclusion
 - Analyzed gender diversity and inclusion at the executive level.
 - Created visualizations on hiring, promotions, and turnover rates.
 - Identified potential causes for slow progress in gender balance.
